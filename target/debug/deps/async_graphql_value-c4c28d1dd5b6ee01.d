@@ -1,0 +1,10 @@
+C:\Users\mitom\rust-intro\target\debug\deps\libasync_graphql_value-c4c28d1dd5b6ee01.rmeta: C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\lib.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\deserializer.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\macros.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\serializer.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\value_serde.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\variables.rs
+
+C:\Users\mitom\rust-intro\target\debug\deps\async_graphql_value-c4c28d1dd5b6ee01.d: C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\lib.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\deserializer.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\macros.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\serializer.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\value_serde.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\variables.rs
+
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\lib.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\deserializer.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\macros.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\serializer.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\value_serde.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-graphql-value-7.0.3\src\variables.rs:

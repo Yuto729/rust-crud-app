@@ -1,0 +1,11 @@
+C:\Users\mitom\rust-intro\target\debug\deps\libpest_generator-275d1abeeae32fea.rmeta: C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs
+
+C:\Users\mitom\rust-intro\target\debug\deps\libpest_generator-275d1abeeae32fea.rlib: C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs
+
+C:\Users\mitom\rust-intro\target\debug\deps\pest_generator-275d1abeeae32fea.d: C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs
+
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs:
+C:\Users\mitom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs:

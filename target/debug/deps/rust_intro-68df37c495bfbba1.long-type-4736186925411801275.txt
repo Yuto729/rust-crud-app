@@ -1,0 +1,1 @@
+fn(async_graphql::Schema<QueryRoot, MutationRoot, EmptySubscription>, {type error}) -> impl std::future::Future<Output = {type error}> {graphql_handler}
